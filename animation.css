@@ -5,14 +5,14 @@
         background: #fffceb;
     }
     to{
-        background: lightblue;
+        background: #858585;
     }
 }
 
 
 
 
-@-webkit-keyframes color {
+@keyframes color {
     0% {
         background: #ff1e28;
         color: #1800ff;
